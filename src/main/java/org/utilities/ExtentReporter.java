@@ -6,11 +6,11 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 public class ExtentReporter {
 	
-	  ExtentReports extentReports; String extentRepPath = System.getProperty("user.dir")+"\\reports\\extentreport.html";
-	  ExtentSparkReporter extentSparkReporter = new ExtentSparkReporter(extentRepPath);
+	 // ExtentReports extentReports; String extentRepPath = System.getProperty("user.dir")+"\\reports\\extentreport.html";
+	 // ExtentSparkReporter extentSparkReporter = new ExtentSparkReporter(extentRepPath);
 	  
-	  extentReports = new ExtentReports(); 
-	  extentReports.
+	//  extentReports = new ExtentReports(); 
+	 // extentReports.
 	  
 	 
 }
